@@ -13,7 +13,7 @@
         android:ems="10"
         android:gravity="top|center_vertical"
         android:inputType="textPersonName"
-        android:text="Name"
+        android:hint="Type your note here"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
